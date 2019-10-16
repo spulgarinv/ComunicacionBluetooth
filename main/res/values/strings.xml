@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ControlBT</string>
+    <string name="control">Control</string>
+    <string name="más">+</string>
+    <string name="less">-</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="textview">TextView</string>
+    <string name="controlador_bluetooth">CONTROLADOR BLUETOOTH</string>
+</resources>
